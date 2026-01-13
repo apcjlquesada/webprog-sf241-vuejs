@@ -1,8 +1,7 @@
 <template>
-  <h1>Frutas</h1>
+  <h1>Prutas at Gulay</h1>
   <food-item/>
   <food-item/>  
-  <food-item/>
   <food-item/>
 </template>
 
